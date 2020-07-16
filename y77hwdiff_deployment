@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: y77hwdiff
-        image: hw_demo:1.0.0
+        image: localhos/hw_demo:1.0.0
         ports:
         - containerPort: 80
     
