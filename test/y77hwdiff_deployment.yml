@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
       - name: y77hwdiff-cont
-        image: localhost:5000/hw_demo:1.0.0
+        image: localhost:5000/hw_demo:2.0.0
         ports:
         - containerPort: 80
